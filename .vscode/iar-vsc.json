@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\PvSafety.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\PvSafety.eww": {
+      "configs": {
+        "${workspaceFolder}\\PvSafety.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\PvSafety.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "C:\\iar\\ewarm-9.60.3"
+  }
+}
